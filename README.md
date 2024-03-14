@@ -8,3 +8,9 @@ The data structures used and the reason for use have been expanded below -
 * HyperLogLog - It was used to find the number of distinct kingdoms, species, genera, etc., as present in the dataset
 
 The implementation is entirely in Python.
+
+References -
+* https://github.com/svpcom/hyperloglog
+* https://github.com/21zhouyun/CountMinSketch
+* https://techtonics.medium.com/implementing-bloom-filters-in-python-and-understanding-its-error-probability-a-step-by-step-guide-13c6cb2e05b7
+* https://www.geeksforgeeks.org/min-heap-in-python/
